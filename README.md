@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Lanaax 💞️
+- 👀 I’m interested in data science, Python, R, statistics and bioinformatics!
+- 🌱 I’m currently learning GC-MS, statistics with R and improving my skills in Python.
