@@ -2,9 +2,9 @@
   
 ### ------------------------------------------------------------------------------------------------------------------------------------------------- ###
 
-- 🌻 I’m a transgender girl 🏳️‍⚧️ and I'm interested in **data science, Python, R, statistics and bioinformatics!**
+- 🌻 I’m a non-binary 🏳️‍⚧️ and I'm interested in **data science, Python, R, statistics and bioinformatics!**
 
-- 🌱 I’m currently learning **GC-MS, statistics with R and improving my skills in Python.**
+- 🌱 I’m currently learning **HTML, CSS, JavaScript, GC-MS, statistics with R and improving my skills in Python.**
 
 - 🪻 I'm newbie in GitHub and still learning how to use it, soon I'll have a lot to show you, guys!
 
