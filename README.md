@@ -2,7 +2,7 @@
   
 ### ------------------------------------------------------------------------------------------------------------------------------------------------- ###
 
-- 🌻 I’m a non-binary 🏳️‍⚧️ and I'm interested in **data science, Python, R, statistics and bioinformatics!**
+- 🌻 I’m a non-binary person and I'm interested in **data science, Python, R, statistics and bioinformatics!**
 
 - 🌱 I’m currently learning **HTML, CSS, JavaScript, GC-MS, statistics with R and improving my skills in Python.**
 
