@@ -1,6 +1,6 @@
 <h3><center>  🌱 Hi, I’m @Lanaax 🌱 </h3></center>
   
-### ------------------------------------------------------------------------------------------------------------------------------------------------- ###
+<div></div>
 
 - 🌻 I’m a non-binary person and I'm interested in **data science, Python, R, statistics and bioinformatics!**
 
