@@ -1,5 +1,5 @@
 
- <img src="https://github.com/Lanaax/Lanaax/assets/136387142/2328d33c-135a-4a88-b2c4-a1a7b4e5fea7" width="600" height="300" align="left">  
+ <img src="https://github.com/Lanaax/Lanaax/assets/136387142/2328d33c-135a-4a88-b2c4-a1a7b4e5fea7" width="600" height="300" align="right">  
 <p aling="right">
 
 <h3>About me</h3> <br>
