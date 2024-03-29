@@ -1,4 +1,4 @@
-<img src="https://github.com/Lanaax/Lanaax/assets/136387142/2328d33c-135a-4a88-b2c4-a1a7b4e5fea7" width="300" height="100">
+<img src="https://github.com/Lanaax/Lanaax/assets/136387142/2328d33c-135a-4a88-b2c4-a1a7b4e5fea7" width="1500" height="500">
 
 <h3><center>  🌱 Hi, I’m @Lanaax 🌱 </h3></center>
   
