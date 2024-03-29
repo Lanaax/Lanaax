@@ -1,3 +1,5 @@
+![image](![Hi__I_m_Lana__1_-removebg](https://github.com/Lanaax/Lanaax/assets/136387142/97e3da5d-d788-4de9-9511-4c4291bbc3d0)
+
 <h3><center>  🌱 Hi, I’m @Lanaax 🌱 </h3></center>
   
 <div></div>
