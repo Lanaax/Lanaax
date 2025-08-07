@@ -3,8 +3,7 @@
 <p aling="right">
 
 <h3>About me</h3> <br>
-- 🌻 26 y.o, brazilian <br>
-- 🌱 Non-binary <br>
+- 🍃 27 y.o, brazilian <br>
 - 🍃 Data enthusiastic <br>
 <h3>My skills</h3>
 
