@@ -3,6 +3,7 @@
 <p aling="right">
 
 <h3>About me</h3> <br>
+- 🍃 My birth name is Luan, but you can call me Lana
 - 🍃 28 y.o, brazilian <br>
 - 🍃 Any pronouns
 - 🍃 Data enthusiastic <br>
