@@ -3,7 +3,7 @@
 <p aling="right">
 
 <h3>About me</h3> <br>
-- 🍃 27 y.o, brazilian <br>
+- 🍃 28 y.o, brazilian <br>
 - 🍃 Data enthusiastic <br>
 <h3>My skills</h3>
 
@@ -20,14 +20,13 @@
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 </div>
 <div align="left">
 
 <h3> Contact me</h3>
  
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luan-buganeme-zacarone-23a4b121a/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:myemailaddress@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luanbugz@gmail.com)
 </div>
 
 
