@@ -4,6 +4,7 @@
 
 <h3>About me</h3> <br>
 - 🍃 28 y.o, brazilian <br>
+- 🍃 Any pronouns
 - 🍃 Data enthusiastic <br>
 <h3>My skills</h3>
 
